@@ -1,0 +1,137 @@
+◼ PH (Physical)
+
+PH01: 24h / 72h / 1w / 1m / 6m / 1–5y
+PH02: 24h / 72h / 1w / 1m / 6m / 1–3y
+PH03: 48h / 1w / 2w / 1m / 6m / 1–5y
+PH04: 1d / 3d / 1w / 2w / 1m / 6m
+PH05: 24h / 72h / 1w / 2w / 1m / 3m
+PH06: 1w / 2w / 1m / 3m / 6m / 1y+
+PH07: 1w / 2w / 1m / 3m / 6m / 1y+
+PH08: 3d / 1w / 2w / 1m / 3m / 6m
+PH09: 72h / 1w / 2w / 1m / 3m / 6m
+PH10: 1w / 2w / 1m / 3m / 6m / 1y
+PH11: 1w / 2w / 1m / 3m / 6m / 1–5y
+PH12: 1w / 2w / 1m / 3m / 6m / 1y
+PH13: 2w / 1m / 2m / 3m / 6m / 1y
+PH14: 72h / 1w / 2w / 1m / 3m / 6m
+PH15: 1w / 2w / 1m / 3m / 6m / 1y
+PH16: 1w / 2w / 1m / 3m / 6m / 1y
+PH17: 1w / 2w / 1m / 3m / 6m / 1y
+PH18: 72h / 1w / 2w / 1m / 3m / 6m
+PH19: 1w / 2w / 1m / 3m / 6m / 1y
+PH20: 2w / 1m / 2m / 3m / 6m / 1y
+PH21: 2w / 1m / 2m / 3m / 6m / 1y
+PH22: 2w / 1m / 2m / 3m / 6m / 1y
+PH23: 72h / 1w / 2w / 1m / 3m / 6m
+PH24: 1w / 2w / 1m / 3m / 6m / 1y
+PH25: 1w / 2w / 1m / 3m / 6m / 1y
+PH26: 1w / 2w / 1m / 3m / 6m / 1y
+PH27: 72h / 1w / 2w / 1m / 3m / 6m
+PH28: 72h / 1w / 2w / 1m / 3m / 6m
+
+⸻
+
+◼ MH (Mental)
+
+MH01: 1w / 2w / 1m / 3m / 6m / 1y
+MH02: 2w / 1m / 2m / 3m / 6m / 1y+
+MH03: 72h / 1w / 2w / 1m / 3m / 6m
+MH04: 72h / 1w / 2w / 1m / 3m / 6m
+MH05: 2w / 1m / 2m / 3m / 6m / 1y
+MH06: 2w / 1m / 2m / 3m / 6m / 1y
+MH07: 2w / 1m / 2m / 3m / 6m / 1y
+MH08: 2w / 1m / 2m / 3m / 6m / 1y
+MH09: 2w / 1m / 2m / 3m / 6m / 1y
+MH10: 2w / 1m / 2m / 3m / 6m / 1y
+MH11: 2w / 1m / 2m / 3m / 6m / 1y
+MH12: 1w / 2w / 1m / 3m / 6m / 1y
+MH13: 1w / 2w / 1m / 3m / 6m / 1y
+MH14: 72h / 1w / 2w / 1m / 3m / 6m
+MH15: 2w / 1m / 2m / 3m / 6m / 1y
+MH16: 2w / 1m / 2m / 3m / 6m / 1y
+MH17: 1w / 2w / 1m / 3m / 6m / 1y
+MH18: 1w / 2w / 1m / 3m / 6m / 1y
+MH19: 2w / 1m / 2m / 3m / 6m / 1y
+MH20: 2w / 1m / 2m / 3m / 6m / 1y
+MH21: 2w / 1m / 2m / 3m / 6m / 1y
+MH22: 2w / 1m / 2m / 3m / 6m / 1y
+MH24: 2w / 1m / 2m / 3m / 6m / 1y
+MH25: 2w / 1m / 2m / 3m / 6m / 1y
+MH26: 2w / 1m / 2m / 3m / 6m / 1y
+MH27: 2w / 1m / 2m / 3m / 6m / 1y
+MH28: 2w / 1m / 2m / 3m / 6m / 1y
+MH29: 1w / 2w / 1m / 3m / 6m / 1y
+MH30: 2w / 1m / 2m / 3m / 6m / 1y
+MH31: 2w / 1m / 2m / 3m / 6m / 1y
+MH32: 1w / 2w / 1m / 3m / 6m / 1y
+MH33: 2w / 1m / 2m / 3m / 6m / 1y
+MH34: 2w / 1m / 2m / 3m / 6m / 1y
+
+⸻
+
+◼ SO (Social)
+
+SO01: 1w / 2w / 1m / 3m / 6m / 1y
+SO02: 1w / 2w / 1m / 3m / 6m / 1y
+SO03: 1w / 2w / 1m / 3m / 6m / 1y
+SO04: 1w / 2w / 1m / 3m / 6m / 1y
+SO05: 1w / 2w / 1m / 3m / 6m / 1y
+SO06: 1w / 2w / 1m / 3m / 6m / 1y
+SO07: 1w / 2w / 1m / 3m / 6m / 1y
+SO08: 1w / 2w / 1m / 3m / 6m / 1y
+SO09: 1w / 2w / 1m / 3m / 6m / 1y
+SO10: 1w / 2w / 1m / 3m / 6m / 1y
+SO11: 1w / 2w / 1m / 3m / 6m / 1y
+SO12: 1w / 2w / 1m / 3m / 6m / 1y
+SO13: 1w / 2w / 1m / 3m / 6m / 1y
+SO14: 1w / 2w / 1m / 3m / 6m / 1y
+SO15: 1w / 2w / 1m / 3m / 6m / 1y
+SO16: 1w / 2w / 1m / 3m / 6m / 1y
+SO17: 1w / 2w / 1m / 3m / 6m / 1y
+SO18: 1w / 2w / 1m / 3m / 6m / 1y
+SO19: 1w / 2w / 1m / 3m / 6m / 1y
+SO20: 1w / 2w / 1m / 3m / 6m / 1y
+SO21: 1w / 2w / 1m / 3m / 6m / 1y
+SO22: 1w / 2w / 1m / 3m / 6m / 1y
+
+⸻
+
+◼ FI (Financial)
+
+FI01: 1m / 2m / 3m / 6m / 1y / 2y
+FI02: 1m / 2m / 3m / 6m / 1y / 2y
+FI03: 1m / 2m / 3m / 6m / 1y / 2y
+FI04: 1m / 2m / 3m / 6m / 1y / 2y
+FI05: 1m / 3m / 6m / 1y / 2y / 5y
+FI06: 1m / 2m / 3m / 6m / 1y / 2y
+FI07: 1m / 3m / 6m / 1y / 2y / 3y
+FI08: 1m / 3m / 6m / 1y / 2y / 3y
+FI09: 1m / 3m / 6m / 1y / 2y / 3y
+FI10: 1m / 2m / 3m / 6m / 1y / 2y
+FI11: 2w / 1m / 2m / 3m / 6m / 1y
+FI12: 3m / 6m / 1y / 2y / 3y / 5y
+FI13: 1m / 2m / 3m / 6m / 1y / 2y
+FI14: 1m / 2m / 3m / 6m / 1y / 2y
+FI15: 1m / 3m / 6m / 1y / 2y / 5y
+FI16: 1m / 3m / 6m / 1y / 2y / 5y
+FI17: 1m / 2m / 3m / 6m / 1y / 2y
+FI18: 3m / 6m / 1y / 2y / 3y / 5y
+
+⸻
+
+◼ TI (Time)
+
+TI01: 72h / 1w / 2w / 1m / 3m / 6m
+TI02: 2w / 1m / 2m / 3m / 6m / 1y
+TI03: 2w / 1m / 2m / 3m / 6m / 1y
+
+⸻
+
+◼ EN (Environmental)
+
+EN01: 1m / 2m / 3m / 6m / 1y / 2y
+EN02: 1m / 2m / 3m / 6m / 1y / 2y
+EN03: 1m / 2m / 3m / 6m / 1y / 2y
+EN04: 3m / 6m / 1y / 2y / 3y / 5y
+EN05: 3m / 6m / 1y / 2y / 3y / 5y
+EN06: 1m / 2m / 3m / 6m / 1y / 2y
