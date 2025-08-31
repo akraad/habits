@@ -1,0 +1,12 @@
+	•	CNT → Count = تعداد دفعات (per Day/Week/Month)
+	•	CIG → Cigarettes = تعداد نخ سیگار
+	•	SES → Sessions = تعداد جلسات (مثل قلیان)
+	•	CUP → Cups/Glasses = تعداد لیوان/فنجان (مثل الکل، قهوه)
+	•	MEAL → Meals = تعداد وعده (مثل فست‌فود، شام دیرهنگام)
+	•	DAY → Days = تعداد روزها (مثل نخوردن صبحانه، بی‌خوابی)
+	•	HRS → Hours = ساعت (مثل کم‌تحرکی، استفاده از موبایل)
+	•	GRM → Grams = گرم (مثل مصرف نمک یا قند)
+	•	AMT → Amount/Money = مبلغ پول (مثل ولخرجی، قمار)
+	•	KW → Kilowatt = مصرف انرژی برق
+	•	LTR → Liters = مصرف آب
+	•	KG → Kilogram = وزن غذا هدررفته
